@@ -1,4 +1,4 @@
-# Test Progressive Web App- test 2
+# Test Progressive Web App- test 3
 
 This example used [`next-pwa`](https://github.com/shadowwalker/next-pwa) to create a progressive web app (PWA) powered by [Workbox](https://developers.google.com/web/tools/workbox/).
 
